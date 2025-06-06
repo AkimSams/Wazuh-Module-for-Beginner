@@ -1,0 +1,4 @@
+# Filebeat configuration template for Wazuh
+output.elasticsearch:
+  hosts: ["https://10.0.0.1:9200"]
+  protocol: https
