@@ -93,5 +93,5 @@ The malware samples and attack simulations are strictly for educational and lab 
 
 ## 🧠 Maintainer
 
-Created by [Your Name or GitHub Username]  
+Created by AkimSams  
 Pull requests and forks are welcome!
